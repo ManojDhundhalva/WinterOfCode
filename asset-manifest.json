@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WinterOfCode/static/css/main.854f5254.css",
-    "main.js": "/WinterOfCode/static/js/main.a776314a.js",
+    "main.css": "/WinterOfCode/static/css/main.9ae55299.css",
+    "main.js": "/WinterOfCode/static/js/main.57a62545.js",
     "static/js/787.b9943464.chunk.js": "/WinterOfCode/static/js/787.b9943464.chunk.js",
     "static/media/loginVideo.mp4": "/WinterOfCode/static/media/loginVideo.9cf906158dbf8e688e10.mp4",
     "static/media/image15.jpg": "/WinterOfCode/static/media/image15.ed3089e707b2c5053140.jpg",
@@ -19,12 +19,12 @@
     "static/media/image7.png": "/WinterOfCode/static/media/image7.4c7ca043a5c6a8d92e3f.png",
     "static/media/image6.png": "/WinterOfCode/static/media/image6.135dabd457364dc17391.png",
     "index.html": "/WinterOfCode/index.html",
-    "main.854f5254.css.map": "/WinterOfCode/static/css/main.854f5254.css.map",
-    "main.a776314a.js.map": "/WinterOfCode/static/js/main.a776314a.js.map",
+    "main.9ae55299.css.map": "/WinterOfCode/static/css/main.9ae55299.css.map",
+    "main.57a62545.js.map": "/WinterOfCode/static/js/main.57a62545.js.map",
     "787.b9943464.chunk.js.map": "/WinterOfCode/static/js/787.b9943464.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.854f5254.css",
-    "static/js/main.a776314a.js"
+    "static/css/main.9ae55299.css",
+    "static/js/main.57a62545.js"
   ]
 }
