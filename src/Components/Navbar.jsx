@@ -22,7 +22,7 @@ function NavBar() {
     return (
         <nav className=" navbar navbar-expand-lg p-2" style={navbarStyle}>
             <div className="container-fluid">
-                <Link className="navbar-brand" to="/home" style={{ color: 'white', fontWeight: 'bold', fontSize: 'x-large' }}>
+                <Link className="navbar-brand" to="/" style={{ color: 'white', fontWeight: 'bold', fontSize: 'x-large' }}>
                     એ હાલો ...
                 </Link>
                 <button
